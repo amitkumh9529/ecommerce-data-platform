@@ -1,0 +1,7 @@
+faker
+psycopg2-binary
+python-dotenv
+pandas
+pyarrow
+boto3
+
